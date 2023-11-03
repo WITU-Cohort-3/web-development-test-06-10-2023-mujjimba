@@ -1,0 +1,15 @@
+
+table, th, td{
+    border: 1px solid rgb(1, 24, 16);
+    
+}
+table, th, td{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
+table, td{
+    background-color: darkolivegreen;
+}
+tr:nth-child
+}
